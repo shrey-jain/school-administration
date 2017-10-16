@@ -1,0 +1,3 @@
+# school-administration
+
+Furst repo
